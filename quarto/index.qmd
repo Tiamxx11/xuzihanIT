@@ -1,0 +1,40 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - icon: twitter
+      text: Twitter
+      href: This is xuzihan's GitHub
+    - icon: github
+      text: Github
+      href: This is xuzihan's GitHub
+    - icon: linkedin
+      text: LinkedIn
+      href: This is xuzihan's GitHub
+    - icon: envelope
+      text: Email
+      href: This is xuzihan's GitHub
+---
+
+::: {#about-block}
+:::
+
+# Hello everyone, my name is xuzihan and I am delighted to introduce myself here.
+
+Hello, everyone! My name is Xu Zihan. “Xu” is my surname, which has a long history and rich cultural connotations in China. And “Zihan”, these two characters carry special meanings. “Zi” often implies elegance and knowledge,while “Han” can give a sense of grace and charm.
+
+People who know me usually say that I'm a kind-hearted and I can always face the various challenges in life with a positive attitude. I have a strong curiosity about new things and like to constantly explore and learn. Whether it is the expansion of knowledge or the mastery of new skills, I am full of enthusiasm.
+
+I have a wide range of hobbies. For example, reading. In the world of books, I can experience different cultures, thoughts, and stories, as if embarking on wonderful journeys.
+
+I also love sports. Through sports, I can not only keep my body healthy but also feel vitality and passion in the process of sweating.
+
+am very glad to introduce myself here. I hope that in the future, I can become friends with you and spend wonderful times together.
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="" role="button" target="_blank" style="padding: 15px 30px;">wangtianhao</a>
+</div>
+```
+
+
